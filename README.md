@@ -56,7 +56,7 @@ Después de realizar los cambios, confirmaremos nuestras modificaciones en la nu
 
 ## Paso 4: Publicar la rama
 
-Si estamos trabajando en un repositorio remoto, podemos publicar nuestra nueva rama.
+Publicar la rama en el repositorio remoto.
 
 ## Paso 5: Cambiar a la rama principal
 
